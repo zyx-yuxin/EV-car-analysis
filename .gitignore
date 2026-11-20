@@ -1,0 +1,19 @@
+# Python 虚拟环境
+.venv/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# PyCharm 配置
+.idea/
+
+# 原始大数据文件（不上传，太大）
+data/
+
+# 模型文件（可选）
+outputs/xgb_model.pkl
+
+# 系统文件
+.DS_Store
+Thumbs.db
